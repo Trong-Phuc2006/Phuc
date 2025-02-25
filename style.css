@@ -33,7 +33,7 @@ body {
 }
 
 #smilyface {
-    height: 50px;
+    height: 40px;
     filter: grayscale(100%) invert(100%);
     margin: 5px 0 5px 15px;
 }
