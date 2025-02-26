@@ -1,3 +1,34 @@
+commit 7432f6a101ef2cb9ab8d5a41a285a0f47eaddafb
+Merge: 86e81a0 52b791c
+Author: Thanh <minhthanhz1516@gmail.com>
+Date:   Wed Feb 26 11:57:18 2025 +0700
+
+    Merge branch 'main' of https://github.com/Trong-Phuc2006/Phuc into local directory
+
+commit 86e81a0f28bd27af4a9b5f4e66e20c336952d231
+Author: Thanh <minhthanhz1516@gmail.com>
+Date:   Wed Feb 26 11:56:56 2025 +0700
+
+    Added a log file for commits
+
+commit 52b791c13d0041a38f88ef929dddc4ab11bb504d
+Author: Trong-Phuc2006 <ltrongphuc06@gmail.com>
+Date:   Tue Feb 25 22:45:26 2025 +0700
+
+    Update style.css
+
+commit 5c169da6fea70fe575c107fd31dae1e59ff043fb
+Author: Trong-Phuc2006 <ltrongphuc06@gmail.com>
+Date:   Tue Feb 25 22:42:22 2025 +0700
+
+    update .banner's height
+
+commit 9d4e22417da5ad3b8a314baea5cde843fdb9f71c
+Author: Trong-Phuc2006 <ltrongphuc06@gmail.com>
+Date:   Tue Feb 25 22:34:57 2025 +0700
+
+    skibidi 2.0
+
 commit 6efcf95f8421af9572467aadde179e55bd3ad997
 Author: Thanh <minhthanhz1516@gmail.com>
 Date:   Tue Feb 25 22:31:48 2025 +0700
